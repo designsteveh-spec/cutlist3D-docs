@@ -1,4 +1,4 @@
-# Privacy Policy — Yield3D
+# Privacy Policy — Cut List 3D
 
 **Last updated:** August 23, 2026
 
@@ -8,7 +8,7 @@
 
 ## Summary
 
-Yield3D is an offline-first cut and material layout tool. Your project data stays on your device unless you choose to export or share files.
+Cut List 3D is an offline-first cut and material layout tool. Your project data stays on your device unless you choose to export or share files.
 
 ## Information we collect
 
@@ -28,7 +28,7 @@ This data remains on your device until you delete it or uninstall the app.
 
 ## Permissions
 
-Yield3D may request permissions needed to save or share PDF files (for example, storage or sharing intents on Android). The app does not collect location data, contacts, or advertising identifiers.
+Cut List 3D may request permissions needed to save or share PDF files (for example, storage or sharing intents on Android). The app does not collect location data, contacts, or advertising identifiers.
 
 ## Sharing you control
 
@@ -36,7 +36,7 @@ If you export a PDF or use Android’s share sheet, you choose where that file g
 
 ## Children’s privacy
 
-Yield3D is not directed at children under 13. We do not knowingly collect personal information from children.
+Cut List 3D is not directed at children under 13. We do not knowingly collect personal information from children.
 
 ## Changes
 

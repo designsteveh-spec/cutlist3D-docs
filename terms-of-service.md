@@ -1,4 +1,4 @@
-# Terms of Service — Yield3D
+# Terms of Service — Cut List 3D
 
 **Last updated:** August 23, 2026
 
@@ -8,7 +8,7 @@
 
 ## Agreement
 
-By downloading, installing, or using Yield3D (“the app”), you agree to these Terms of Service. If you do not agree, do not use the app.
+By downloading, installing, or using Cut List 3D (“the app”), you agree to these Terms of Service. If you do not agree, do not use the app.
 
 ## License
 
@@ -16,7 +16,7 @@ We grant you a limited, non-exclusive, non-transferable license to use the app f
 
 ## The service
 
-Yield3D helps you plan cut layouts on sheet stock. Features may change over time. We may update, suspend, or discontinue features without notice.
+Cut List 3D helps you plan cut layouts on sheet stock. Features may change over time. We may update, suspend, or discontinue features without notice.
 
 ## Your content
 

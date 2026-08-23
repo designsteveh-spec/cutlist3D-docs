@@ -1,6 +1,6 @@
-# Yield3D legal documents
+# Cut List 3D legal documents
 
-Public legal and policy documents for **Yield3D: Cut & Material Optimizer**.
+Public legal and policy documents for **Cut List 3D: Cut & Material Optimizer**.
 
 | Document | File |
 |----------|------|

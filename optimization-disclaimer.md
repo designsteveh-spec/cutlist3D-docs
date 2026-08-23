@@ -1,4 +1,4 @@
-# Optimization & cut-layout disclaimer — Yield3D
+# Optimization & cut-layout disclaimer — Cut List 3D
 
 **Last updated:** August 23, 2026
 
@@ -8,7 +8,7 @@
 
 ## Not a substitute for professional judgment
 
-Yield3D helps visualize and plan how parts might fit on sheet stock. It is **not** a substitute for:
+Cut List 3D helps visualize and plan how parts might fit on sheet stock. It is **not** a substitute for:
 
 - Professional woodworking, cabinetry, or fabrication advice
 - Structural engineering or building-code compliance review
